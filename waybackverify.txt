@@ -1,0 +1,10 @@
+Hi, I am the owner of the domain name and website "thefinalcity.com".
+I would like to have some archives of this site removed from the wayback machine.
+
+URL/URL Path to exclude: thefinalcity.com (and all subdomains)
+Time period of domain ownership: 28/06/2020 to PresentTime period to exclude: 21/07/2020 to 23/03/2021
+
+A text file containing an exact copy of what is written in this email should be available at https://thefinalcity.com/waybackverify.txt
+
+Yours sincerely,
+Gabriel Sykes
