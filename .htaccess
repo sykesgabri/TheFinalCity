@@ -1,0 +1,3 @@
+<IfModule mod_headers.c>
+    Header set Easteregg "reading the http headers are ya"
+</IfModule>
